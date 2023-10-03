@@ -1,0 +1,73 @@
+ 
+#footer {
+    background: url(assets/footer-back.jpg);
+    background-size: cover;
+    background-position: 0 100%;
+    box-shadow: inset 0 0 0 215px rgb(0 0 0 / 48%);
+    border-top: 4px solid #212529;
+    font-size: 0.9em;
+    margin-top: 50px;
+    padding: 0;
+    position: relative;
+    clear: both;
+    color: white;
+}
+
+#footer a{
+    color: white;
+    text-decoration: none;
+}
+.border-0 {
+    border: 0!important;
+}
+
+.text-none {
+    list-style-type: none;
+}
+
+ 
+.Design2{
+
+    margin-top: 35px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.beginner{
+    background-color: rgb(255 233 121);
+}
+
+ ul a:hover{
+    background-color: rgb(130, 130, 115);
+    border-radius: 8px;
+   
+
+}
+nav ul a{
+    border-right: 1px solid white;
+}
+nav ul a:first-child{
+    border-left: 1px solid white; 
+
+}
+ 
+
+.btn-hover div {
+    /* background-color: rgb(244, 245, 247);
+    border-radius: 8px; */
+    text-align: left;
+   
+}
+
+.btn-hov :hover{
+    background-color: rgb(244, 245, 247);
+    border-radius: 8px;   
+   
+}
+
+.bg-color {
+    background-color: rgb(244, 245, 247);
+}
+.text-derk{
+    color: #212529;
+}
